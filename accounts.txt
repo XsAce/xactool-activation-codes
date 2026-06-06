@@ -2,6 +2,6 @@ Accont-21212-Password-b752924356fe8425e83de063f303e6b238fe3f0a8e101a47f6be42835c
 Accont-admin-Password-684dc1cff1359a1b1d4d7e471eb863a7f0fbcc60ae792c63fb86235abeac7afb-Point-0-Status-svip-LastSignin--Email-
 Accont-baizhi-Password-bc386872a61d82ded435b9dc9ee1d9fb0f11ca16a2995b16b4723da767a3d63f-Point-2-Status-normal-LastSignin--Email-409429949@qq.com
 Accont-longaotian-Password-b55eb4d864e88eebb771d168801c8c61fdea550cb4a64989ecb2662810a128d8-Point-1-Status-normal-LastSignin-2026-05-23-Email-
-Accont-test-Password-fdc8d093e8a0ed02ee6ebecd0d62d5a7f436c9ae88eca4439e76f41227e136b3-Point-0-Status-normal-LastSignin--Email-
+Accont-test-Password-fdc8d093e8a0ed02ee6ebecd0d62d5a7f436c9ae88eca4439e76f41227e136b3-Point-0-Status-vip-LastSignin--Email-
 Accont-unst-Password-32a602841a6403e642b551056ae50c8a512d917d3a6fed056a401ba86b4b33bf-Point-0-Status-normal-LastSignin--Email-
 Accont-番薯丸-Password-b9caea5d9a502882872f18202070c11ca24c6803871351c408ea20d4e6febd03-Point-1-Status-normal-LastSignin-2026-05-23-Email-
