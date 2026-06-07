@@ -3,7 +3,7 @@ Accont-7891-Password-6c450c056d24cdf243438a80cb201d88ff4bebb92482a2ae7531a33a86e
 Accont-GTQfh-Password-6c450c056d24cdf243438a80cb201d88ff4bebb92482a2ae7531a33a86e9ae20-Point-1-Status-svip-LastSignin-2026-06-06-Email-
 Accont-admin-Password-684dc1cff1359a1b1d4d7e471eb863a7f0fbcc60ae792c63fb86235abeac7afb-Point-0-Status-svip-LastSignin--Email-
 Accont-baizhi-Password-bc386872a61d82ded435b9dc9ee1d9fb0f11ca16a2995b16b4723da767a3d63f-Point-5-Status-svip-LastSignin-2026-06-06-Email-409429949@qq.com
-Accont-ljkai-Password-12902aceed834c4cb1037330f2315d2859991a97fd6eb2dc2f97b4f454fca63d-Point-3-Status-svip-LastSignin-2026-06-06-Email-3931355110@qq.com
+Accont-ljkai-Password-12902aceed834c4cb1037330f2315d2859991a97fd6eb2dc2f97b4f454fca63d-Point-6-Status-svip-LastSignin-2026-06-07-Email-3931355110@qq.com
 Accont-longaotian-Password-b55eb4d864e88eebb771d168801c8c61fdea550cb4a64989ecb2662810a128d8-Point-1-Status-svip-LastSignin-2026-05-23-Email-
 Accont-test-Password-fdc8d093e8a0ed02ee6ebecd0d62d5a7f436c9ae88eca4439e76f41227e136b3-Point-0-Status-banned-LastSignin--Email-
 Accont-unst-Password-32a602841a6403e642b551056ae50c8a512d917d3a6fed056a401ba86b4b33bf-Point-0-Status-svip-LastSignin--Email-
