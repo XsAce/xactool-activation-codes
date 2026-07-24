@@ -30,5 +30,5 @@ Accont-xsace-Password-684dc1cff1359a1b1d4d7e471eb863a7f0fbcc60ae792c63fb86235abe
 Accont-yy131-Password-f8709d822acd06fc0040f1494009853a01009e8f83665f6ec9b8df353e0f77fe-Point-1-Status-svip-LastSignin-2026-06-06-Email-
 Accont-yzr-Password-6dea05f26376391453d4ad57297213784f3c45c8cac230393addbd370b089d9d-Point-3-Status-normal-LastSignin-2026-06-25-Email-15123616269@163.com
 Accont-吃瓜熊哒-Password-09eccc40bff4439a108b962c1d265fec5c2e73e99d2497c034f7e6b27a3fd654-Point-1-Status-normal-LastSignin-2026-06-21-Email-
-Accont-慢慢慢-Password-13ac5bb45ffdeec1407c8981db97b45a70637f98c86afbdcaaf875c9917af219-Point-1-Status-normal-LastSignin-2026-07-18-Email-
+Accont-慢慢慢-Password-13ac5bb45ffdeec1407c8981db97b45a70637f98c86afbdcaaf875c9917af219-Point-2-Status-normal-LastSignin-2026-07-24-Email-
 Accont-番薯丸-Password-b9caea5d9a502882872f18202070c11ca24c6803871351c408ea20d4e6febd03-Point-1-Status-svip-LastSignin-2026-05-23-Email-
